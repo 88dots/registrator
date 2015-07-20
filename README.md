@@ -1,8 +1,6 @@
 # Registrator
 
-[![CircleCI](https://img.shields.io/circleci/project/gliderlabs/registrator/release.svg)](https://circleci.com/gh/gliderlabs/registrator)
-[![Docker Hub](https://img.shields.io/badge/docker-ready-blue.svg)](https://registry.hub.docker.com/u/gliderlabs/registrator/)
-[![IRC Channel](https://img.shields.io/badge/irc-%23gliderlabs-blue.svg)](https://kiwiirc.com/client/irc.freenode.net/#gliderlabs)
+[![Docker Repository on Quay.io](https://quay.io/repository/marwanhilmi/registrator/status?token=fa231d91-eaf3-4242-999c-68d99f525d2b "Docker Repository on Quay.io")](https://quay.io/repository/marwanhilmi/registrator)
 
 Service registry bridge for Docker, sponsored by [Weave](http://weave.works).
 
